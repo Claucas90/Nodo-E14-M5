@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">E14M5</string>
+    <string name="banco_claucas90">Banco Claucas90</string>
+    <string name="ver_saldo">Ver Saldo</string>
+    <string name="ingresar_dinero">Ingresar dinero</string>
+    <string name="sacar_dinero">Sacar dinero</string>
+    <string name="salir">Salir</string>
+    <string name="ingrese_el_monto">Ingrese el monto</string>
+    <string name="realizar_acci_n">Realizar Acción</string>
 </resources>
